@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+  color: white;
+}
+table{
+  width: 95%;
+  border-collapse: collapse;
+  margin: 40px auto;
+  /* border: 1px solid white; */
+}
+tr{
+ border-bottom: 1px solid white;
+ height: 80px;
+}
+
+.ele-row img{
+  width: 40px;
+}
+/* .pos{
+  color: rgb(19, 202, 19);
+}
+.neg{
+  color: rgb(233, 69, 69);
+} */
