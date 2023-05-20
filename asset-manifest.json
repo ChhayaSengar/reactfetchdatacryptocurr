@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactfetchdatacryptocurr/static/css/main.8795339e.css",
+    "main.js": "/reactfetchdatacryptocurr/static/js/main.f152c192.js",
+    "index.html": "/reactfetchdatacryptocurr/index.html",
+    "main.8795339e.css.map": "/reactfetchdatacryptocurr/static/css/main.8795339e.css.map",
+    "main.f152c192.js.map": "/reactfetchdatacryptocurr/static/js/main.f152c192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8795339e.css",
+    "static/js/main.f152c192.js"
+  ]
+}
